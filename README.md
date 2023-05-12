@@ -10,5 +10,3 @@ Then we compared the performance of the MR and Spark frameworks by creating the 
 > 3) Jugal Patidaar
 > 4) Manjal Shah
 > 5) Hemanya Chaudhary
-
-Datasets - https://drive.google.com/drive/folders/1aabEyTdJg7IhJYS10cv7VhWGURdyZiD5?usp=sharing
